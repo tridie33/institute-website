@@ -311,13 +311,3 @@ body{
     width: 1rem;
     margin-left: .4rem;
 }
-/* TO BE CONTINUED */
-.tobecontinued{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: #001b50;
-    font-family: 'Courier New', Courier, monospace;
-    position: relative;
-    top: 40rem;
-}
